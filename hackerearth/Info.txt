@@ -1,0 +1,1 @@
+This file will hold all the information about the coding question solved on HackerEarth Platform. 
