@@ -1,1 +1,2 @@
 Question 1 - Two Sum Problem. (https://leetcode.com/problems/two-sum/)
+Question 2 - Longest Substring without repeating characters. (https://leetcode.com/problems/longest-substring-without-repeating-characters/)
