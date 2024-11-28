@@ -10,4 +10,8 @@ Below is the list of Question with their corresponding LeetCode and Solution Rep
 
 3. [Question 03](https://github.com/GauravAmarnani/platform-coding-solutions/tree/main/leetcode/Question03) - [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 
+4. [Question 04](https://github.com/GauravAmarnani/platform-coding-solutions/tree/main/leetcode/Question04) - [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
+
+---
+
 ### Each solution is accompanied by a detailed explanation for better understanding.
