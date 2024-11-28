@@ -1,6 +1,6 @@
-# Coding Problems
+# Coding Problems - LeetCode
  
-Below is the list of Question with their corresponding LeetCode links:
+Below is the list of Question with their corresponding LeetCode and Solution Repository links:
 
 ## Questions
 
