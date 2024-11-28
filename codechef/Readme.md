@@ -10,4 +10,6 @@ Below is the list of questions with their corresponding CodeChef links and solut
 
 3. [Question 03](https://github.com/GauravAmarnani/platform-coding-solutions/tree/main/codechef/Question03) - [Equal Elements](https://www.codechef.com/practice/course/arrays-strings-sorting/INTARR01/problems/EQUALELE)
 
+4. [Question 04](https://github.com/GauravAmarnani/platform-coding-solutions/tree/main/codechef/Question04) - [Dominant Elements](https://www.codechef.com/practice/course/arrays-strings-sorting/INTARR01/problems/DOMINANT2)
+
 ### Each solution is accompanied by a detailed explanation for better understanding.
