@@ -12,6 +12,8 @@ Below is the list of Question with their corresponding LeetCode and Solution Rep
 
 4. [Question 04](https://github.com/GauravAmarnani/platform-coding-solutions/tree/main/leetcode/Question04) - [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 
+5. [Question 05](https://github.com/GauravAmarnani/platform-coding-solutions/tree/main/leetcode/Question05) - [String to Integer ATOI](https://leetcode.com/problems/string-to-integer-atoi/)
+
 ---
 
 ### Each solution is accompanied by a detailed explanation for better understanding.
