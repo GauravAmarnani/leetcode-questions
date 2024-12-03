@@ -16,6 +16,8 @@ Below is the list of Question with their corresponding LeetCode and Solution Rep
 
 6. [Question 06](https://github.com/GauravAmarnani/platform-coding-solutions/tree/main/leetcode/Question06) - [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 
+7. [Question 07](https://github.com/GauravAmarnani/platform-coding-solutions/tree/main/leetcode/Question07) - [Container with most Water](https://leetcode.com/problems/container-with-most-water)
+
 ---
 
 ### Each solution is accompanied by a detailed explanation for better understanding.
