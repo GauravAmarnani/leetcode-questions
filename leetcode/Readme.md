@@ -18,6 +18,8 @@ Below is the list of Question with their corresponding LeetCode and Solution Rep
 
 7. [Question 07](https://github.com/GauravAmarnani/platform-coding-solutions/tree/main/leetcode/Question07) - [Container with most Water](https://leetcode.com/problems/container-with-most-water)
 
+8. [Question 08](https://github.com/GauravAmarnani/platform-coding-solutions/tree/main/leetcode/Question08) - [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+
 ---
 
 ### Each solution is accompanied by a detailed explanation for better understanding.
