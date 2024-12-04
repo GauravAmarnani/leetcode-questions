@@ -20,6 +20,8 @@ Below is the list of Question with their corresponding LeetCode and Solution Rep
 
 8. [Question 08](https://github.com/GauravAmarnani/platform-coding-solutions/tree/main/leetcode/Question08) - [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 
+9. [Question 09](https://github.com/GauravAmarnani/platform-coding-solutions/tree/main/leetcode/Question09) - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+
 ---
 
 ### Each solution is accompanied by a detailed explanation for better understanding.
