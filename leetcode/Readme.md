@@ -22,6 +22,8 @@ Below is the list of Question with their corresponding LeetCode and Solution Rep
 
 9. [Question 09](https://github.com/GauravAmarnani/platform-coding-solutions/tree/main/leetcode/Question09) - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 
+10. [Question 10](https://github.com/GauravAmarnani/platform-coding-solutions/tree/main/leetcode/Question10) - [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/)
+
 ---
 
 ### Each solution is accompanied by a detailed explanation for better understanding.
