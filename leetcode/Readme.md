@@ -26,6 +26,8 @@ Below is the list of Question with their corresponding LeetCode and Solution Rep
 
 11. [Question 11](https://github.com/GauravAmarnani/platform-coding-solutions/tree/main/leetcode/Question11) - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
 
+12. [Question 12](https://github.com/GauravAmarnani/platform-coding-solutions/tree/main/leetcode/Question11) - [Find Index of First Occurrence in String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
+
 ---
 
 ### Each solution is accompanied by a detailed explanation for better understanding.
