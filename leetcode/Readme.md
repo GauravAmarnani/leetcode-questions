@@ -24,6 +24,8 @@ Below is the list of Question with their corresponding LeetCode and Solution Rep
 
 10. [Question 10](https://github.com/GauravAmarnani/platform-coding-solutions/tree/main/leetcode/Question10) - [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/)
 
+11. [Question 11](https://github.com/GauravAmarnani/platform-coding-solutions/tree/main/leetcode/Question11) - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
+
 ---
 
 ### Each solution is accompanied by a detailed explanation for better understanding.
