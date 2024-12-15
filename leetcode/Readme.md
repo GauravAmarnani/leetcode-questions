@@ -30,6 +30,8 @@ Below is the list of Question with their corresponding LeetCode and Solution Rep
 
 13. [Question 13](https://github.com/GauravAmarnani/platform-coding-solutions/tree/main/leetcode/Question13) - [Find First & Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 
+14. [Question 14](https://github.com/GauravAmarnani/platform-coding-solutions/tree/main/leetcode/Question14) - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+
 ---
 
 ### Each solution is accompanied by a detailed explanation for better understanding.
