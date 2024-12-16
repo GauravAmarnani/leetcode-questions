@@ -1,1 +1,0 @@
-This file will hold all the info about the Hackerrank Coding Questions.
