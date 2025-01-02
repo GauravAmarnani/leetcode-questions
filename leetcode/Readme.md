@@ -32,6 +32,8 @@ Below is the list of Question with their corresponding LeetCode and Solution Rep
 
 14. [Question 14](https://github.com/GauravAmarnani/platform-coding-solutions/tree/main/leetcode/Question14) - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 
+15. [Question 15](https://github.com/GauravAmarnani/platform-coding-solutions/tree/main/leetcode/Question14) - [Merge Sorted Arrays](https://leetcode.com/problems/merge-sorted-array)
+
 ---
 
 ### Each solution is accompanied by a detailed explanation for better understanding.
