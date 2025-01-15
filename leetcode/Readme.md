@@ -32,7 +32,7 @@ Below is the list of Question with their corresponding LeetCode and Solution Rep
 
 14. [Question 14](https://github.com/GauravAmarnani/platform-coding-solutions/tree/main/leetcode/Question14) - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 
-15. [Question 15](https://github.com/GauravAmarnani/platform-coding-solutions/tree/main/leetcode/Question14) - [Merge Sorted Arrays](https://leetcode.com/problems/merge-sorted-array)
+15. [Question 15](https://github.com/GauravAmarnani/platform-coding-solutions/tree/main/leetcode/Question15) - [Merge Sorted Arrays](https://leetcode.com/problems/merge-sorted-array)
 
 16. [Question 16](https://github.com/GauravAmarnani/platform-coding-solutions/tree/main/leetcode/Question16) - [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
 
