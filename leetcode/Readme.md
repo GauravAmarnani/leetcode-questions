@@ -34,6 +34,8 @@ Below is the list of Question with their corresponding LeetCode and Solution Rep
 
 15. [Question 15](https://github.com/GauravAmarnani/platform-coding-solutions/tree/main/leetcode/Question14) - [Merge Sorted Arrays](https://leetcode.com/problems/merge-sorted-array)
 
+16. [Question 16](https://github.com/GauravAmarnani/platform-coding-solutions/tree/main/leetcode/Question16) - [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
+
 ---
 
 ### Each solution is accompanied by a detailed explanation for better understanding.
