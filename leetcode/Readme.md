@@ -38,6 +38,8 @@ Below is the list of Question with their corresponding LeetCode and Solution Rep
 
 17. [Question 17](https://github.com/GauravAmarnani/platform-coding-solutions/tree/main/leetcode/Question17) - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
 
+18. [Question 18](https://github.com/GauravAmarnani/platform-coding-solutions/tree/main/leetcode/Question18) - [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
+
 ---
 
 ### Each solution is accompanied by a detailed explanation for better understanding.
