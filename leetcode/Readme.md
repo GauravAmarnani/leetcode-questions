@@ -40,6 +40,8 @@ Below is the list of Question with their corresponding LeetCode and Solution Rep
 
 18. [Question 18](https://github.com/GauravAmarnani/platform-coding-solutions/tree/main/leetcode/Question18) - [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 
+19. [Question 19](https://github.com/GauravAmarnani/platform-coding-solutions/tree/main/leetcode/Question18) -[Two Sum II Problem](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+
 ---
 
 ### Each solution is accompanied by a detailed explanation for better understanding.
